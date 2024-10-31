@@ -1,0 +1,7 @@
+﻿Compound Name,Compound Conc,Kinase,Technology,% Inhibition 1,% Inhibition 2,% Inhibition Avg
+P162-0948,3000,CDK8/cyclin C,LanthaScreen Binding,99,99,99
+P162-0948,1000,CDK8/cyclin C,LanthaScreen Binding,96,96,96
+P162-0948,300,CDK8/cyclin C,LanthaScreen Binding,86,85,86
+P162-0948,100,CDK8/cyclin C,LanthaScreen Binding,68,58,63
+P162-0948,30,CDK8/cyclin C,LanthaScreen Binding,42,37,39
+P162-0948,10,CDK8/cyclin C,LanthaScreen Binding,15,11,13
